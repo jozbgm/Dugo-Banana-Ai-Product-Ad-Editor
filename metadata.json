@@ -1,0 +1,5 @@
+{
+  "name": "Dugo Banana AI Photo Editor",
+  "description": "An AI-powered photo editing application that uses Gemini Nano Banana to transform product photos. Users can upload a product image, select styling options like aspect ratio, lighting, and perspective, provide an optional style reference image, and generate a new, professional-looking photo based on an AI-generated prompt.",
+  "requestFramePermissions": []
+}
